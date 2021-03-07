@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cSharpWithBTK", "cSharpWithBTK\cSharpWithBTK.csproj", "{5F3C952E-BA40-4D86-9D94-68E71CB5D7B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "Conditionals\Conditionals.csproj", "{95A27689-66E0-43B2-ADDF-5B6E2EA94D57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F3C952E-BA40-4D86-9D94-68E71CB5D7B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F3C952E-BA40-4D86-9D94-68E71CB5D7B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F3C952E-BA40-4D86-9D94-68E71CB5D7B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F3C952E-BA40-4D86-9D94-68E71CB5D7B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95A27689-66E0-43B2-ADDF-5B6E2EA94D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A27689-66E0-43B2-ADDF-5B6E2EA94D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A27689-66E0-43B2-ADDF-5B6E2EA94D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A27689-66E0-43B2-ADDF-5B6E2EA94D57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB61433A-297D-40D8-81E6-2F11343101B8}
+	EndGlobalSection
+EndGlobal
